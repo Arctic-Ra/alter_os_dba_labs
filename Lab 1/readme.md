@@ -13,3 +13,10 @@
 > Также после установки была изменена среда рабочего стола на Pantheon, с которым обычно поставляется ElementaryOS
 > 
 > <img src="/Lab 1/screens/1.png" title="Рабочее окружение среды Linux" width="auto" height="592.5"/> 
+
+ *2. Установка PostgreSQL*
+
+> Был установлен пакет postgresql  
+> Команда `apt install` `названия пакетов` устанавливает необходимые пакеты и их зависимости из репозиториев конфигурации. 
+> 
+> <img src="/Lab 1/screens/2.png" title="Установка PostgreSQL" width="auto" height="592.5"/> 
