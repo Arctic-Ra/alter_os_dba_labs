@@ -11,10 +11,5 @@
 > Команда `apt-upgrade` в свою очередь производит установку этих пакетов.
 > 
 > Также после установки была изменена среда рабочего стола на Pantheon, с которым обычно поставляется ElementaryOS
-> ![Рабочее окружение среды Linux](/Lab 1/screens/1.png#report) 
-
-
-img[src~="report"] {
-   width:150px;
-   height:100px;
-}
+> 
+> <img src="/Lab 1/screens/1.png" title="Рабочее окружение среды Linux" width="auto" height="592.5"/> 
