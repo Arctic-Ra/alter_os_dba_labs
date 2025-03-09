@@ -63,7 +63,7 @@
 >
 > <img src="/Lab 2/screens/6.png" title="Мониторинг состояния системы" width="auto" height="592.5"/>
 
- *7. Мониторинг PostgreSQL*
+ *8. Мониторинг PostgreSQL*
 
 > Был вызван мониторинг состояния процессов postgre
 >
